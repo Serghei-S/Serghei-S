@@ -18,7 +18,7 @@
 
 ### 📊 Data Science & ML
 - Machine Learning (ML)  
-- Deep Learning (PyTorch, BERT, GPT)  
+- Deep Learning (PyTorch, BERT, GPT, LSTM)  
 - Natural Language Processing 
 - Feature Engineering  
 - A/B Testing  
